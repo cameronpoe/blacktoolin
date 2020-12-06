@@ -7,18 +7,16 @@ def main():
 	try:
 		print ('''
 \033[91m
-M#"""""""'M  dP                   dP       M""""""""M                   dP oo          
-##  mmmm. `M 88                   88       Mmmm  mmmM                   88             
-#'        .M 88 .d8888b. .d8888b. 88  .dP  MMMM  MMMM .d8888b. .d8888b. 88 dP 88d888b. 
-M#  MMMb.'YM 88 88'  `88 88'  `"" 88888"   MMMM  MMMM 88'  `88 88'  `88 88 88 88'  `88 
-M#  MMMM'  M 88 88.  .88 88.  ... 88  `8b. MMMM  MMMM 88.  .88 88.  .88 88 88 88    88 
-M#       .;M dP `88888P8 `88888P' dP   `YP MMMM  MMMM `88888P' `88888P' dP dP dP    dP 
-M#########M                                MMMMMMMMMM                                  
-                                                                                       \033[1;m
- \033[91m+ -- -- +=[ Author: Zayotic | Homepage: blog.zay.li\033[1;m
- \033[91m+ -- -- +=[ 333 Tools \033[1;m
-
-
+      ██████╗  █████╗ ██████╗ ██╗  ██╗███╗   ██╗███████╗███████╗███████╗
+      ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝████╗  ██║██╔════╝██╔════╝██╔════╝
+      ██║  ██║███████║██████╔╝█████╔╝ ██╔██╗ ██║█████╗  ███████╗███████╗
+      ██║  ██║██╔══██║██╔══██╗██╔═██╗ ██║╚██╗██║██╔══╝  ╚════██║╚════██║
+      ██████╔╝██║  ██║██║  ██║██║  ██╗██║ ╚████║███████╗███████║███████║
+      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝  \033[1;m
+          \033[91m| [!]  | Only Kali Linux Tools For Arch Linux (BlackArch) |\033[1;m
+                        \033[91m[ Author: Zatiel And Zayotic ]\033[1;m
+                               \033[91m[ 333 Tools ] \033[1;m
+							   
 \033[1;91m[W] Before updating your system , please remove all blackarch repositories to avoid any kind of problem .\033[1;m
 		''')
 		def inicio1():
@@ -91,15 +89,15 @@ M#########M                                MMMMMMMMMM
 						print ('''
 \033[91m**************************** All Categories *****************************\033[1;m
 
-1) Information Gathering			8) Exploitation Tools
-2) Vulnerability Analysis			9) Forensics Tools
-3) Wireless Attacks				10) Stress Testing
-4) Web Applications				11) Password Attacks
-5) Sniffing & Spoofing				12) Reverse Engineering
-6) Maintaining Access				13) Hardware Hacking
-7) Reporting Tools 				14) Extra
+\033[91m[\033[1;m01\033[91m]\033[1;m Information Gathering			\033[91m[\033[1;m08\033[91m]\033[1;m Exploitation Tools
+\033[91m[\033[1;m02\033[91m]\033[1;m Vulnerability Analysis			\033[91m[\033[1;m09\033[91m]\033[1;m Forensics Tools
+\033[91m[\033[1;m03\033[91m]\033[1;m Wireless Attacks				\033[91m[\033[1;m10\033[91m]\033[1;m Stress Testing
+\033[91m[\033[1;m04\033[91m]\033[1;m Web Applications				\033[91m[\033[1;m11\033[91m]\033[1;m Password Attacks
+\033[91m[\033[1;m05\033[91m]\033[1;m Sniffing & Spoofing	                \033[91m[\033[1;m12\033[91m]\033[1;m Reverse Engineering
+\033[91m[\033[1;m06\033[91m]\033[1;m Maintaining Access				\033[91m[\033[1;m13\033[91m]\033[1;m Hardware Hacking
+\033[91m[\033[1;m07\033[91m]\033[1;m Reporting Tools 				\033[91m[\033[1;m14\033[91m]\033[1;m Extra
 									
-0) All
+\033[91m[\033[1;m0\033[91m]\033[1;m All
 
 			 ''')
 						print ("\033[1;32mSelect a category or press (0) to install all BlackArch linux tools .\n\033[1;m")
